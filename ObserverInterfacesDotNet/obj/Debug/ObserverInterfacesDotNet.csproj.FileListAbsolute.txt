@@ -1,0 +1,6 @@
+C:\Users\carlos.silva\documents\visual studio 2015\Projects\OberserverDesignPattern\ObserverInterfacesDotNet\bin\Debug\ObserverInterfacesDotNet.exe.config
+C:\Users\carlos.silva\documents\visual studio 2015\Projects\OberserverDesignPattern\ObserverInterfacesDotNet\obj\Debug\ObserverInterfacesDotNet.csprojResolveAssemblyReference.cache
+C:\Users\carlos.silva\documents\visual studio 2015\Projects\OberserverDesignPattern\ObserverInterfacesDotNet\bin\Debug\ObserverInterfacesDotNet.exe
+C:\Users\carlos.silva\documents\visual studio 2015\Projects\OberserverDesignPattern\ObserverInterfacesDotNet\bin\Debug\ObserverInterfacesDotNet.pdb
+C:\Users\carlos.silva\documents\visual studio 2015\Projects\OberserverDesignPattern\ObserverInterfacesDotNet\obj\Debug\ObserverInterfacesDotNet.exe
+C:\Users\carlos.silva\documents\visual studio 2015\Projects\OberserverDesignPattern\ObserverInterfacesDotNet\obj\Debug\ObserverInterfacesDotNet.pdb

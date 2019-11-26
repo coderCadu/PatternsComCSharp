@@ -1,0 +1,6 @@
+C:\Users\carlos.silva\documents\visual studio 2015\Projects\OberserverDesignPattern\OberserverDesignPattern\bin\Debug\OberserverDesignPattern.exe.config
+C:\Users\carlos.silva\documents\visual studio 2015\Projects\OberserverDesignPattern\OberserverDesignPattern\bin\Debug\OberserverDesignPattern.exe
+C:\Users\carlos.silva\documents\visual studio 2015\Projects\OberserverDesignPattern\OberserverDesignPattern\bin\Debug\OberserverDesignPattern.pdb
+C:\Users\carlos.silva\documents\visual studio 2015\Projects\OberserverDesignPattern\OberserverDesignPattern\obj\Debug\ObserverDesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\carlos.silva\documents\visual studio 2015\Projects\OberserverDesignPattern\OberserverDesignPattern\obj\Debug\OberserverDesignPattern.exe
+C:\Users\carlos.silva\documents\visual studio 2015\Projects\OberserverDesignPattern\OberserverDesignPattern\obj\Debug\OberserverDesignPattern.pdb
